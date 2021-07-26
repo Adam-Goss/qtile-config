@@ -1,0 +1,32 @@
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonSurveyNotification'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+User belongs to experiment group 'pythonDeprecatePythonPath'
+User belongs to experiment group 'pythonSortEnvscf'
+Info 2021-07-25 21:22:03: ZMQ install verified.
+Info 2021-07-25 21:22:03: id is 2383cf53-d83a-4e4a-99e0-972891d2d9ea
+Info 2021-07-25 21:25:15: Process Execution: > /bin/python3 -c "import notebook"
+> /bin/python3 -c "import notebook"
+Info 2021-07-25 21:25:15: Process Execution: > /bin/python3 -c "import notebook"
+> /bin/python3 -c "import notebook"
+Info 2021-07-25 21:25:15: Process Execution: > /bin/python3 -c "import jupyter"
+> /bin/python3 -c "import jupyter"
+Info 2021-07-25 21:25:15: Process Execution: > /bin/python3 -c "import jupyter"
+> /bin/python3 -c "import jupyter"
+Info 2021-07-25 21:25:15: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 2021-07-25 21:25:15: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 2021-07-25 21:45:22: Shutting down notebooks for 8704ae63-73a7-4870-9cdb-5721b22157f2
+Info 2021-07-25 21:45:22: Disposing HostJupyterExecution 9c43ae58-ed95-4a5f-9520-7e77238d5974
+Info 2021-07-25 21:45:22: Disposing super HostJupyterExecution 9c43ae58-ed95-4a5f-9520-7e77238d5974
+Info 2021-07-25 21:45:22: Disposing HostJupyterExecution 9c43ae58-ed95-4a5f-9520-7e77238d5974
+Info 2021-07-25 21:45:22: Finished disposing HostJupyterExecution  9c43ae58-ed95-4a5f-9520-7e77238d5974
+Info 2021-07-25 21:45:22: Disposing HostJupyterExecution 9c43ae58-ed95-4a5f-9520-7e77238d5974
+Info 2021-07-25 21:45:22: Finished disposing HostJupyterExecution  9c43ae58-ed95-4a5f-9520-7e77238d5974
+Info 2021-07-25 21:45:22: Getting live share API during dispose HostJupyterExecution 9c43ae58-ed95-4a5f-9520-7e77238d5974
+Info 2021-07-25 21:45:22: Detaching HostJupyterExecution 9c43ae58-ed95-4a5f-9520-7e77238d5974
+Info 2021-07-25 21:45:22: Cleaning up server cache 9c43ae58-ed95-4a5f-9520-7e77238d5974
+Info 2021-07-25 21:45:22: Finished disposing HostJupyterExecution  9c43ae58-ed95-4a5f-9520-7e77238d5974

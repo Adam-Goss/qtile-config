@@ -1,0 +1,36 @@
+00:00:00.142787 VirtualBox GUI VM Selector Window 6.1.22 r144080 linux.amd64 (Apr 28 2021 17:25:25) release log
+00:00:00.142789 Log opened 2021-07-23T21:14:37.003753000Z
+00:00:00.142790 Build Type: release
+00:00:00.142795 OS Product: Linux
+00:00:00.142795 OS Release: 5.11.0-7620-generic
+00:00:00.142796 OS Version: #21~1626191760~21.04~55de9c3-Ubuntu SMP Tue Jul 20 22:18:55 UTC 
+00:00:00.142835 DMI Product Name: 20SL
+00:00:00.142842 DMI Product Version: Lenovo ThinkBook 14-IIL
+00:00:00.142852 Firmware type: BIOS
+00:00:00.142906 Host RAM: 15062MB (14.7GB) total, 12898MB (12.5GB) available
+00:00:00.142912 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.142912 Process ID: 10397
+00:00:00.142912 Package type: LINUX_64BITS_UBUNTU_19_10
+00:00:00.142943 Qt version: 5.15.2
+00:00:00.162078 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.481005 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x27 x 1920x1053
+00:00:00.491268 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:56.686105 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:56.690577 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:02.646961 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:25:00.041158 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:25:43.308414 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:28.501252 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:34.370085 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:34.377613 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:27:34.379387 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:34.990175 GUI: Updating snapshot tree after TAKING snapshot with MachineID={{8cd5bab5-75a8-4ce3-bace-83f522a3c472}}, SnapshotID={{fc91b286-1b68-4226-ac13-d0c0d671e99c}}...
+00:27:35.004624 GUI: Snapshot tree update successful!
+00:27:35.008241 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:36:07.514089 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:36:12.203851 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:36:12.212761 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:36:12.214742 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:36:12.826845 GUI: Updating snapshot tree after TAKING snapshot with MachineID={{8cd5bab5-75a8-4ce3-bace-83f522a3c472}}, SnapshotID={{fe3afbab-0060-4055-a629-ab4ec8e533c5}}...
+00:36:12.840546 GUI: Snapshot tree update successful!
+00:36:12.844458 GUI: UIMediumEnumerator: Medium-enumeration finished!

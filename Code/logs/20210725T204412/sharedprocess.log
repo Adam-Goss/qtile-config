@@ -1,0 +1,22 @@
+[2021-07-25 20:44:23.784] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-07-25 20:44:34.020] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-07-25 20:44:35.578] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-07-25 20:44:35.579] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-07-25 20:44:39.413] [sharedprocess] [info] Downloaded extension: ms-python.python /home/adam/.config/Code/CachedExtensionVSIXs/ms-python.python-2021.7.1060902895
+[2021-07-25 20:44:41.279] [sharedprocess] [info] Extracted extension to /home/adam/.vscode/extensions/.2d03b6b2-abd0-47b3-9de9-854ecdf0c0e5: ms-python.python
+[2021-07-25 20:44:41.326] [sharedprocess] [info] Renamed to /home/adam/.vscode/extensions/ms-python.python-2021.7.1060902895
+[2021-07-25 20:44:41.331] [sharedprocess] [info] Installation completed. ms-python.python
+[2021-07-25 20:44:41.347] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2021-07-25 20:44:43.334] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/adam/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.8.1054968649
+[2021-07-25 20:44:43.777] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-07-25 20:44:43.778] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-07-25 20:44:43.830] [sharedprocess] [info] Extracted extension to /home/adam/.vscode/extensions/.4631f5db-8640-4e3c-8241-953d37cc64ab: ms-toolsai.jupyter
+[2021-07-25 20:44:43.841] [sharedprocess] [info] Renamed to /home/adam/.vscode/extensions/ms-toolsai.jupyter-2021.8.1054968649
+[2021-07-25 20:44:43.842] [sharedprocess] [info] Installation completed. ms-toolsai.jupyter
+[2021-07-25 20:44:43.850] [sharedprocess] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2021-07-25 20:44:46.442] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/adam/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.7.5
+[2021-07-25 20:44:47.918] [sharedprocess] [info] Extracted extension to /home/adam/.vscode/extensions/.1f2d538a-06b2-4338-ad5f-71d8186b62f3: ms-python.vscode-pylance
+[2021-07-25 20:44:47.936] [sharedprocess] [info] Renamed to /home/adam/.vscode/extensions/ms-python.vscode-pylance-2021.7.5
+[2021-07-25 20:44:47.937] [sharedprocess] [info] Installation completed. ms-python.vscode-pylance
+[2021-07-25 20:44:47.946] [sharedprocess] [info] Extensions installed successfully: ms-python.vscode-pylance
+[2021-07-25 20:44:53.782] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.

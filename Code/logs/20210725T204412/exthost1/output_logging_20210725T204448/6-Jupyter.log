@@ -1,0 +1,13 @@
+Info 2021-07-25 20:44:48: ZMQ install verified.
+Info 2021-07-25 20:44:48: id is 6206fed3-b7a6-4fe7-8342-15884fdcedb8
+Info 2021-07-25 20:46:07: Shutting down notebooks for 9c8bedd9-07b2-490e-b2db-6a2f68ad3a20
+Info 2021-07-25 20:46:07: Disposing HostJupyterExecution 81dded75-6fa5-4dc8-a6cd-b196fff62743
+Info 2021-07-25 20:46:07: Disposing super HostJupyterExecution 81dded75-6fa5-4dc8-a6cd-b196fff62743
+Info 2021-07-25 20:46:07: Disposing HostJupyterExecution 81dded75-6fa5-4dc8-a6cd-b196fff62743
+Info 2021-07-25 20:46:07: Finished disposing HostJupyterExecution  81dded75-6fa5-4dc8-a6cd-b196fff62743
+Info 2021-07-25 20:46:07: Disposing HostJupyterExecution 81dded75-6fa5-4dc8-a6cd-b196fff62743
+Info 2021-07-25 20:46:07: Finished disposing HostJupyterExecution  81dded75-6fa5-4dc8-a6cd-b196fff62743
+Info 2021-07-25 20:46:07: Getting live share API during dispose HostJupyterExecution 81dded75-6fa5-4dc8-a6cd-b196fff62743
+Info 2021-07-25 20:46:07: Detaching HostJupyterExecution 81dded75-6fa5-4dc8-a6cd-b196fff62743
+Info 2021-07-25 20:46:07: Cleaning up server cache 81dded75-6fa5-4dc8-a6cd-b196fff62743
+Info 2021-07-25 20:46:07: Finished disposing HostJupyterExecution  81dded75-6fa5-4dc8-a6cd-b196fff62743

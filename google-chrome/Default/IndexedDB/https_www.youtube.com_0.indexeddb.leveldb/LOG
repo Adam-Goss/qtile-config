@@ -1,0 +1,7 @@
+2021/07/23-21:35:30.123 210b Reusing MANIFEST /home/adam/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/23-21:35:30.123 210b Recovering log #3
+2021/07/23-21:35:30.123 210b Reusing old log /home/adam/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2021/07/23-21:36:59.928 20ec Level-0 table #5: started
+2021/07/23-21:36:59.934 20ec Level-0 table #5: 23061 bytes OK
+2021/07/23-21:36:59.940 20ec Delete type=0 #3
+2021/07/23-21:36:59.940 20ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)

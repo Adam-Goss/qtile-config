@@ -1,0 +1,19 @@
+2021/07/25-21:32:14.613 592b Reusing MANIFEST /home/adam/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2021/07/25-21:32:14.613 592b Recovering log #128
+2021/07/25-21:32:14.646 592b Level-0 table #131: started
+2021/07/25-21:32:14.732 592b Level-0 table #131: 6476864 bytes OK
+2021/07/25-21:32:14.741 592b Delete type=0 #128
+2021/07/25-21:32:14.744 5a76 Compacting 4@0 + 2@1 files
+2021/07/25-21:32:14.954 5a76 Generated table #133@0: 1 keys, 6476620 bytes
+2021/07/25-21:32:14.964 5a76 Generated table #134@0: 4 keys, 482 bytes
+2021/07/25-21:32:14.964 5a76 Compacted 4@0 + 2@1 files => 6477102 bytes
+2021/07/25-21:32:14.970 5a76 compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/07/25-21:33:16.825 5a7b Level-0 table #136: started
+2021/07/25-21:33:16.901 5a7b Level-0 table #136: 6476704 bytes OK
+2021/07/25-21:33:16.939 5a7b Delete type=2 #121
+2021/07/25-21:33:16.939 5a7b Delete type=2 #125
+2021/07/25-21:33:16.939 5a7b Delete type=0 #132
+2021/07/25-21:33:16.939 5a7b Delete type=2 #129
+2021/07/25-21:33:16.939 5a7b Delete type=2 #123
+2021/07/25-21:33:16.939 5a7b Delete type=2 #120
+2021/07/25-21:33:16.939 5a7b Delete type=2 #131
