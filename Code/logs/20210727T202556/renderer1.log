@@ -1,0 +1,1 @@
+[2021-07-27 21:39:24.542] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/home/adam/.config/qtile/config.py.acro' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/adam/.config/qtile/config.py.acro') file:///home/adam/.config/qtile/config.py.acro

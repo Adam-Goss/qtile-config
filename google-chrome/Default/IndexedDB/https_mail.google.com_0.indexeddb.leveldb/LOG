@@ -1,2 +1,7 @@
-2021/07/01-21:32:13.576 12ea Creating DB /home/adam/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
-2021/07/01-21:32:13.590 12ea Reusing MANIFEST /home/adam/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/26-20:58:15.295 1c0b Reusing MANIFEST /home/adam/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/26-20:58:15.295 1c0b Recovering log #3
+2021/07/26-20:58:15.295 1c0b Reusing old log /home/adam/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2021/07/26-21:32:40.247 2917 Level-0 table #5: started
+2021/07/26-21:32:40.257 2917 Level-0 table #5: 446906 bytes OK
+2021/07/26-21:32:40.264 2917 Delete type=0 #3
+2021/07/26-21:32:40.264 2917 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

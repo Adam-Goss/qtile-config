@@ -1,0 +1,24 @@
+User belongs to experiment group 'pythonaacf'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'pythonSurveyNotification'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'pythonDeprecatePythonPath'
+User belongs to experiment group 'pythonSortEnvscf'
+Python interpreter path: /bin/python3
+Error 2021-07-27 20:26:19: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file '/home/adam/.config/qtile/.vscode/settings.json' (Error: Unable to resolve non-existing file '/home/adam/.config/qtile/.vscode/settings.json')
+	at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:167834)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async y.readText (/home/adam/.vscode/extensions/ms-python.python-2021.7.1060902895/out/client/extension.js:9:341417)
+	at async p.doesFileNeedToBeFixed (/home/adam/.vscode/extensions/ms-python.python-2021.7.1060902895/out/client/extension.js:59:589732)
+	at async /home/adam/.vscode/extensions/ms-python.python-2021.7.1060902895/out/client/extension.js:59:588859
+	at async Promise.all (index 1)
+	at async p.getFilesToBeFixed (/home/adam/.vscode/extensions/ms-python.python-2021.7.1060902895/out/client/extension.js:59:588805)
+	at async p.updateTestSettings (/home/adam/.vscode/extensions/ms-python.python-2021.7.1060902895/out/client/extension.js:59:588432)] {
+  code: 'FileNotFound'
+}
+Starting Pylance language server.
+> conda --version
+Error 2021-07-27 22:13:15: Error while running worker[Worker 1]. undefined
+Error 2021-07-27 22:13:15: Error while running worker[Worker 2]. undefined

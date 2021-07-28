@@ -1,6 +1,42 @@
-2021/07/25-21:21:29.088 3eb6 Reusing MANIFEST /home/adam/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
-2021/07/25-21:21:29.088 3eb6 Recovering log #126
-2021/07/25-21:21:29.088 3eb6 Reusing old log /home/adam/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000126.log 
-2021/07/25-21:22:31.089 3eb2 Level-0 table #129: started
-2021/07/25-21:22:31.163 3eb2 Level-0 table #129: 6476743 bytes OK
-2021/07/25-21:22:31.180 3eb2 Delete type=0 #126
+2021/07/27-20:34:40.240 31ed Reusing MANIFEST /home/adam/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2021/07/27-20:34:40.240 31ed Recovering log #161
+2021/07/27-20:34:40.299 31ed Level-0 table #164: started
+2021/07/27-20:34:40.395 31ed Level-0 table #164: 6477587 bytes OK
+2021/07/27-20:34:40.404 31ed Delete type=0 #161
+2021/07/27-20:35:44.669 31f0 Level-0 table #167: started
+2021/07/27-20:35:44.760 31f0 Level-0 table #167: 6477577 bytes OK
+2021/07/27-20:35:44.767 31f0 Delete type=0 #165
+2021/07/27-20:35:44.770 31f0 Compacting 4@0 + 2@1 files
+2021/07/27-20:35:44.917 31f0 Generated table #168@0: 1 keys, 6477347 bytes
+2021/07/27-20:35:44.925 31f0 Generated table #169@0: 5 keys, 503 bytes
+2021/07/27-20:35:44.925 31f0 Compacted 4@0 + 2@1 files => 6477850 bytes
+2021/07/27-20:35:44.931 31f0 compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/07/27-20:35:44.932 31f0 Delete type=2 #157
+2021/07/27-20:35:44.932 31f0 Delete type=2 #164
+2021/07/27-20:35:44.932 31f0 Delete type=2 #162
+2021/07/27-20:35:44.932 31f0 Delete type=2 #159
+2021/07/27-20:35:44.932 31f0 Delete type=2 #167
+2021/07/27-20:35:44.932 31f0 Delete type=2 #156
+2021/07/27-20:35:45.590 31ec Level-0 table #171: started
+2021/07/27-20:35:45.680 31ec Level-0 table #171: 6477873 bytes OK
+2021/07/27-20:35:45.687 31ec Delete type=0 #166
+2021/07/27-20:35:53.333 31f0 Level-0 table #173: started
+2021/07/27-20:35:53.418 31f0 Level-0 table #173: 6474658 bytes OK
+2021/07/27-20:35:53.429 31f0 Delete type=0 #170
+2021/07/27-21:35:44.615 ee66 Level-0 table #175: started
+2021/07/27-21:35:44.690 ee66 Level-0 table #175: 6474817 bytes OK
+2021/07/27-21:35:44.698 ee66 Delete type=0 #172
+2021/07/27-21:56:03.127 13a22 Level-0 table #177: started
+2021/07/27-21:56:03.204 13a22 Level-0 table #177: 6475068 bytes OK
+2021/07/27-21:56:03.211 13a22 Delete type=0 #174
+2021/07/27-21:56:03.212 13a22 Compacting 4@0 + 2@1 files
+2021/07/27-21:56:03.360 13a22 Generated table #178@0: 1 keys, 6474690 bytes
+2021/07/27-21:56:03.367 13a22 Generated table #179@0: 5 keys, 501 bytes
+2021/07/27-21:56:03.367 13a22 Compacted 4@0 + 2@1 files => 6475191 bytes
+2021/07/27-21:56:03.374 13a22 compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/07/27-21:56:03.374 13a22 Delete type=2 #168
+2021/07/27-21:56:03.374 13a22 Delete type=2 #177
+2021/07/27-21:56:03.374 13a22 Delete type=2 #169
+2021/07/27-21:56:03.374 13a22 Delete type=2 #175
+2021/07/27-21:56:03.374 13a22 Delete type=2 #171
+2021/07/27-21:56:03.374 13a22 Delete type=2 #173

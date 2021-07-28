@@ -1,3 +1,7 @@
-2021/07/25-21:21:28.685 5 Reusing MANIFEST /home/adam/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2021/07/25-21:21:28.686 5 Recovering log #15
-2021/07/25-21:21:28.686 5 Reusing old log /home/adam/.config/google-chrome/Default/Session Storage/000015.log 
+2021/07/27-20:34:39.843 3 Reusing MANIFEST /home/adam/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2021/07/27-20:34:39.843 3 Recovering log #18
+2021/07/27-20:34:39.844 3 Reusing old log /home/adam/.config/google-chrome/Default/Session Storage/000018.log 
+2021/07/27-21:14:27.825 5 Level-0 table #23: started
+2021/07/27-21:14:27.833 5 Level-0 table #23: 17312 bytes OK
+2021/07/27-21:14:27.840 5 Delete type=0 #18
+2021/07/27-22:13:19.439 2a Level-0 table #25: started

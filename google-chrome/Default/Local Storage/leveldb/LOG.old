@@ -1,6 +1,24 @@
-2021/07/25-21:21:28.609 3 Reusing MANIFEST /home/adam/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2021/07/25-21:21:28.611 3 Recovering log #75
-2021/07/25-21:21:28.611 3 Reusing old log /home/adam/.config/google-chrome/Default/Local Storage/leveldb/000075.log 
-2021/07/25-21:22:42.520 5 Level-0 table #80: started
-2021/07/25-21:22:42.534 5 Level-0 table #80: 12655 bytes OK
-2021/07/25-21:22:42.542 5 Delete type=0 #75
+2021/07/27-20:34:39.693 3 Reusing MANIFEST /home/adam/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/07/27-20:34:39.695 3 Recovering log #88
+2021/07/27-20:34:39.696 3 Reusing old log /home/adam/.config/google-chrome/Default/Local Storage/leveldb/000088.log 
+2021/07/27-20:40:52.033 5 Level-0 table #93: started
+2021/07/27-20:40:52.047 5 Level-0 table #93: 15951 bytes OK
+2021/07/27-20:40:52.056 5 Delete type=0 #88
+2021/07/27-20:43:52.033 5 Level-0 table #95: started
+2021/07/27-20:43:52.044 5 Level-0 table #95: 16154 bytes OK
+2021/07/27-20:43:52.052 5 Delete type=0 #92
+2021/07/27-21:22:19.178 5 Level-0 table #97: started
+2021/07/27-21:22:19.192 5 Level-0 table #97: 11968 bytes OK
+2021/07/27-21:22:19.201 5 Delete type=0 #94
+2021/07/27-21:59:53.328 1f Level-0 table #99: started
+2021/07/27-21:59:53.335 1f Level-0 table #99: 15079 bytes OK
+2021/07/27-21:59:53.344 1f Delete type=0 #96
+2021/07/27-21:59:53.344 1f Compacting 4@0 + 1@1 files
+2021/07/27-21:59:53.354 1f Generated table #100@0: 582 keys, 150310 bytes
+2021/07/27-21:59:53.354 1f Compacted 4@0 + 1@1 files => 150310 bytes
+2021/07/27-21:59:53.361 1f compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/27-21:59:53.362 1f Delete type=2 #90
+2021/07/27-21:59:53.363 1f Delete type=2 #93
+2021/07/27-21:59:53.363 1f Delete type=2 #99
+2021/07/27-21:59:53.363 1f Delete type=2 #95
+2021/07/27-21:59:53.363 1f Delete type=2 #97

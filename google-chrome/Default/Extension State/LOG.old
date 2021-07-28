@@ -1,3 +1,6 @@
-2021/07/25-21:21:28.915 3d8a Reusing MANIFEST /home/adam/.config/google-chrome/Default/Extension State/MANIFEST-000001
-2021/07/25-21:21:28.915 3d8a Recovering log #7
-2021/07/25-21:21:28.918 3d8a Reusing old log /home/adam/.config/google-chrome/Default/Extension State/000007.log 
+2021/07/27-20:34:40.111 31ed Reusing MANIFEST /home/adam/.config/google-chrome/Default/Extension State/MANIFEST-000001
+2021/07/27-20:34:40.111 31ed Recovering log #10
+2021/07/27-20:34:40.124 31ed Reusing old log /home/adam/.config/google-chrome/Default/Extension State/000010.log 
+2021/07/27-21:49:47.060 12a0b Level-0 table #14: started
+2021/07/27-21:49:47.095 12a0b Level-0 table #14: 2075512 bytes OK
+2021/07/27-21:49:47.110 12a0b Delete type=0 #10

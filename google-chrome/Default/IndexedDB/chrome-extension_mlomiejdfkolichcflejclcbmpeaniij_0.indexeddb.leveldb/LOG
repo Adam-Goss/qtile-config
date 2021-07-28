@@ -1,14 +1,14 @@
-2021/07/25-21:32:14.831 594e Reusing MANIFEST /home/adam/.config/google-chrome/Default/IndexedDB/chrome-extension_mlomiejdfkolichcflejclcbmpeaniij_0.indexeddb.leveldb/MANIFEST-000001
-2021/07/25-21:32:14.831 594e Recovering log #85
-2021/07/25-21:32:14.832 594e Reusing old log /home/adam/.config/google-chrome/Default/IndexedDB/chrome-extension_mlomiejdfkolichcflejclcbmpeaniij_0.indexeddb.leveldb/000085.log 
-2021/07/25-21:32:14.832 594e Delete type=2 #83
-2021/07/25-21:32:14.879 59f1 Level-0 table #90: started
-2021/07/25-21:32:14.890 59f1 Level-0 table #90: 93453 bytes OK
-2021/07/25-21:32:14.897 59f1 Delete type=0 #85
-2021/07/25-21:32:14.897 59f1 Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1d\x01\x02\x01\x03\x00f\x00o\x00o' @ 39515 : 1
-2021/07/25-21:32:14.897 59f1 Compacting 1@0 + 1@1 files
-2021/07/25-21:32:14.916 59f1 Generated table #91@0: 6415 keys, 152275 bytes
-2021/07/25-21:32:14.916 59f1 Compacted 1@0 + 1@1 files => 152275 bytes
-2021/07/25-21:32:14.925 59f1 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/07/25-21:32:14.926 59f1 Delete type=2 #90
-2021/07/25-21:32:14.926 59f1 Manual compaction at level-0 from '\x00\x1d\x01\x02\x01\x03\x00f\x00o\x00o' @ 39515 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/28-08:08:01.397 10c1 Reusing MANIFEST /home/adam/.config/google-chrome/Default/IndexedDB/chrome-extension_mlomiejdfkolichcflejclcbmpeaniij_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/28-08:08:01.397 10c1 Recovering log #109
+2021/07/28-08:08:01.410 10c1 Reusing old log /home/adam/.config/google-chrome/Default/IndexedDB/chrome-extension_mlomiejdfkolichcflejclcbmpeaniij_0.indexeddb.leveldb/000109.log 
+2021/07/28-08:08:01.410 10c1 Delete type=2 #107
+2021/07/28-08:08:01.456 f91 Level-0 table #114: started
+2021/07/28-08:08:01.469 f91 Level-0 table #114: 287485 bytes OK
+2021/07/28-08:08:01.475 f91 Delete type=0 #109
+2021/07/28-08:08:01.476 f91 Manual compaction at level-0 from '\x00#\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at '\x00#\x01\x02\x01\x03\x00f\x00o\x00o' @ 54622 : 1
+2021/07/28-08:08:01.476 f91 Compacting 1@0 + 1@1 files
+2021/07/28-08:08:01.489 f91 Generated table #115@0: 9142 keys, 258263 bytes
+2021/07/28-08:08:01.489 f91 Compacted 1@0 + 1@1 files => 258263 bytes
+2021/07/28-08:08:01.495 f91 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/28-08:08:01.495 f91 Delete type=2 #114
+2021/07/28-08:08:01.496 f91 Manual compaction at level-0 from '\x00#\x01\x02\x01\x03\x00f\x00o\x00o' @ 54622 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at (end)

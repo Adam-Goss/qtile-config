@@ -1,3 +1,39 @@
-2021/07/25-21:21:29.605 3eb2 Reusing MANIFEST /home/adam/.config/google-chrome/Default/Local Extension Settings/mlomiejdfkolichcflejclcbmpeaniij/MANIFEST-000001
-2021/07/25-21:21:29.605 3eb2 Recovering log #66
-2021/07/25-21:21:29.605 3eb2 Reusing old log /home/adam/.config/google-chrome/Default/Local Extension Settings/mlomiejdfkolichcflejclcbmpeaniij/000066.log 
+2021/07/27-20:34:40.935 31ed Reusing MANIFEST /home/adam/.config/google-chrome/Default/Local Extension Settings/mlomiejdfkolichcflejclcbmpeaniij/MANIFEST-000001
+2021/07/27-20:34:40.936 31ed Recovering log #76
+2021/07/27-20:34:40.939 31ed Reusing old log /home/adam/.config/google-chrome/Default/Local Extension Settings/mlomiejdfkolichcflejclcbmpeaniij/000076.log 
+2021/07/27-20:43:45.324 4617 Compacting 1@1 + 1@2 files
+2021/07/27-20:43:45.341 4617 Generated table #79@1: 94 keys, 344378 bytes
+2021/07/27-20:43:45.341 4617 Compacted 1@1 + 1@2 files => 344378 bytes
+2021/07/27-20:43:45.355 4617 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/27-20:43:45.355 4617 Delete type=2 #74
+2021/07/27-20:43:45.355 4617 Delete type=2 #77
+2021/07/27-20:44:01.241 4617 Level-0 table #81: started
+2021/07/27-20:44:01.260 4617 Level-0 table #81: 233598 bytes OK
+2021/07/27-20:44:01.267 4617 Delete type=0 #76
+2021/07/27-20:47:56.615 4cfc Level-0 table #83: started
+2021/07/27-20:47:56.634 4cfc Level-0 table #83: 242908 bytes OK
+2021/07/27-20:47:56.644 4cfc Delete type=0 #80
+2021/07/27-20:56:47.392 563a Compacting 1@0 + 1@1 files
+2021/07/27-20:56:47.407 563a Generated table #84@0: 42 keys, 68344 bytes
+2021/07/27-20:56:47.407 563a Compacted 1@0 + 1@1 files => 68344 bytes
+2021/07/27-20:56:47.414 563a compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/27-20:56:47.414 563a Delete type=2 #83
+2021/07/27-20:56:47.414 563a Delete type=2 #81
+2021/07/27-21:12:49.162 92ec Compacting 1@1 + 1@2 files
+2021/07/27-21:12:49.179 92ec Generated table #85@1: 94 keys, 345328 bytes
+2021/07/27-21:12:49.179 92ec Compacted 1@1 + 1@2 files => 345328 bytes
+2021/07/27-21:12:49.186 92ec compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/27-21:12:49.186 92ec Delete type=2 #84
+2021/07/27-21:12:49.186 92ec Delete type=2 #79
+2021/07/27-21:47:57.720 12422 Level-0 table #87: started
+2021/07/27-21:47:57.738 12422 Level-0 table #87: 248771 bytes OK
+2021/07/27-21:47:57.745 12422 Delete type=0 #82
+2021/07/27-22:01:59.394 15cdf Compacting 1@1 + 1@2 files
+2021/07/27-22:01:59.415 15cdf Generated table #88@1: 101 keys, 347517 bytes
+2021/07/27-22:01:59.415 15cdf Compacted 1@1 + 1@2 files => 347517 bytes
+2021/07/27-22:01:59.422 15cdf compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/27-22:01:59.422 15cdf Delete type=2 #85
+2021/07/27-22:01:59.422 15cdf Delete type=2 #87
+2021/07/27-22:03:01.452 1559e Level-0 table #90: started
+2021/07/27-22:03:01.470 1559e Level-0 table #90: 237745 bytes OK
+2021/07/27-22:03:01.478 1559e Delete type=0 #86

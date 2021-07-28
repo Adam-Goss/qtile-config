@@ -1,3 +1,12 @@
-2021/07/25-21:21:28.609 3d79 Reusing MANIFEST /home/adam/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2021/07/25-21:21:28.609 3d79 Recovering log #37
-2021/07/25-21:21:28.610 3d79 Reusing old log /home/adam/.config/google-chrome/Default/Sync Data/LevelDB/000037.log 
+2021/07/27-20:34:39.712 31be Reusing MANIFEST /home/adam/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/07/27-20:34:39.712 31be Recovering log #40
+2021/07/27-20:34:39.715 31be Reusing old log /home/adam/.config/google-chrome/Default/Sync Data/LevelDB/000040.log 
+2021/07/27-20:36:46.789 31ef Level-0 table #45: started
+2021/07/27-20:36:46.797 31ef Level-0 table #45: 120782 bytes OK
+2021/07/27-20:36:46.805 31ef Delete type=0 #40
+2021/07/27-21:27:52.510 d8b3 Level-0 table #47: started
+2021/07/27-21:27:52.523 d8b3 Level-0 table #47: 108601 bytes OK
+2021/07/27-21:27:52.530 d8b3 Delete type=0 #44
+2021/07/27-21:53:19.873 13a21 Level-0 table #49: started
+2021/07/27-21:53:19.892 13a21 Level-0 table #49: 141605 bytes OK
+2021/07/27-21:53:19.899 13a21 Delete type=0 #46
